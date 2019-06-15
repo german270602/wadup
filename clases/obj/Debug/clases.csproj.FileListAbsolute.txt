@@ -1,0 +1,7 @@
+C:\Users\german lol\source\repos\clases\bin\Debug\clases.exe.config
+C:\Users\german lol\source\repos\clases\bin\Debug\clases.exe
+C:\Users\german lol\source\repos\clases\bin\Debug\clases.pdb
+C:\Users\german lol\source\repos\clases\obj\Debug\clases.csprojAssemblyReference.cache
+C:\Users\german lol\source\repos\clases\obj\Debug\clases.csproj.CoreCompileInputs.cache
+C:\Users\german lol\source\repos\clases\obj\Debug\clases.exe
+C:\Users\german lol\source\repos\clases\obj\Debug\clases.pdb
